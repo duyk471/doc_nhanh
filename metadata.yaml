@@ -3,12 +3,12 @@
 # https://pandoc.org/MANUAL.html#epub-metadata
 title:
   - type: main
-    text: <TITLE>
+    text: Posts
   # - type: subtitle
   #   text: <SUBTITLE>
 creator:
   - role: author
-    text: <NAME>
+    text: Authors
   # - role: editor
   #   text: <NAME>
 # description: <DESCRIPTION OF YOUR BOOK.>
